@@ -1,16 +1,21 @@
-## Hi there 👋
+![Nil Sanz — Building Tech with Human Meaning](./assets/banner.png)
 
-<!--
-**nilsanz/nilsanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Nil 👋
 
-Here are some ideas to get you started:
+Full-Stack Developer based in Barcelona, focused on building reliable, meaningful web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing **HARIA**, a healthcare workflow automation application inspired by first-hand experience in healthcare administration.
+
+### Tech
+
+**Python · Django · PostgreSQL · HTML · CSS · JavaScript**
+
+### Currently building
+
+🏥 **[HARIA](https://github.com/nilsanz/HARIA)** — Healthcare referral workflow automation
+
+Turning a real, protocol-driven administrative workflow into deterministic, testable and traceable software.
+
+### Connect
+
+[LinkedIn](linkedin.com/in/nilsanz/)
