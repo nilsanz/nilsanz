@@ -1,6 +1,6 @@
 ![Nil Sanz — Building Tech with Human Meaning](./banner.png)
 
-## Hi, I'm Nil 👋
+<p align="center"><strong>FULL-STACK DEVELOPER</strong></p>
 
 Full-Stack Developer based in Barcelona, focused on building reliable, meaningful web applications.
 
