@@ -1,4 +1,4 @@
-![Nil Sanz — Building Tech with Human Meaning](./assets/banner.png)
+![Nil Sanz — Building Tech with Human Meaning](./banner.png)
 
 ## Hi, I'm Nil 👋
 
