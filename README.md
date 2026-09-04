@@ -12,8 +12,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br><br>
 
-  🏥 <a href="https://github.com/nilsanz/HARIA">HARIA</a> — Healthcare referral workflow automation
-  <br><br>
+  <a href="https://github.com/nilsanz/HARIA">
+    <img src="https://img.shields.io/badge/HARIA-Featured%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-  <a href="https://linkedin.com/in/nilsanz/">LinkedIn</a>
+  <a href="https://linkedin.com/in/nilsanz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nil%20Sanz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </h3>
