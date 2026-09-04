@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nilsanz/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin" height="40" alt="LinkedIn">
+  <a href="https://linkedin.com/in/nilsanz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
