@@ -2,9 +2,7 @@
 
 <h1 align="center">Full-Stack Developer · Barcelona</h1>
 
-<p align="center">
-  Driven to build reliable, meaningful technology.
-</p>
+<h1 align="center">Driven to build reliable, meaningful technology.</h1>
 
 ### Tech
 
