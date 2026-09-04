@@ -1,10 +1,8 @@
 ![Nil Sanz — Building Tech with Human Meaning](./banner.png)
 
-## Hi, I'm Nil 👋
+<h1 align="center">FULL-STACK DEVELOPER</h1>
 
-Full-Stack Developer based in Barcelona, focused on building reliable, meaningful web applications.
-
-Currently developing **HARIA**, a healthcare workflow automation application inspired by first-hand experience in healthcare administration.
+Full-Stack Developer based in Barcelona, driven to build reliable, meaningful technology.
 
 ### Tech
 
@@ -14,8 +12,6 @@ Currently developing **HARIA**, a healthcare workflow automation application ins
 
 🏥 **[HARIA](https://github.com/nilsanz/HARIA)** — Healthcare referral workflow automation
 
-Turning a real, protocol-driven administrative workflow into deterministic, testable and traceable software.
-
 ### Connect
 
-[LinkedIn](linkedin.com/in/nilsanz/)
+[LinkedIn](https://linkedin.com/in/nilsanz/)
