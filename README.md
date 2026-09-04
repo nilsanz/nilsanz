@@ -11,12 +11,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </h3>
 
-<p align="center">
+<h3 align="center">
   <img src="./haria-logo.png" width="52" alt="HARIA" align="absmiddle">
-  <big><big><big><strong>HARIA</strong></big></big></big>
+  <strong>HARIA</strong>
   &nbsp;—&nbsp;
-  <strong><em>Healthcare referral workflow automation</em></strong>
-</p>
+  <small><strong><em>Healthcare referral workflow automation</em></strong></small>
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nilsanz/">
