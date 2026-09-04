@@ -1,7 +1,8 @@
 ![Nil Sanz — Building Tech with Human Meaning](./banner.png)
 
+<h1 align="center">Full-Stack Developer · Barcelona</h1>
+
 <p align="center">
-  <strong>Full-Stack Developer</strong> · Barcelona<br>
   Driven to build reliable, meaningful technology.
 </p>
 
