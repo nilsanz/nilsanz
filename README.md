@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nilsanz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn">
+    <img src="./assets/linkedin.png" width="45" alt="LinkedIn">
   </a>
 </p>
