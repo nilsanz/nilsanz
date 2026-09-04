@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nilsanz/">
-    <img src="./assets/linkedin.png" width="45" alt="LinkedIn">
+    <img src="./linkedin.png" width="45" alt="LinkedIn">
   </a>
 </p>
