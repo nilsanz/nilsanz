@@ -12,8 +12,10 @@
 </h3>
 
 <p align="center">
-  <img src="./haria-logo.png" width="52" alt="HARIA" align="absmiddle">
-  <big><big><strong><u>HARIA</u></strong></big></big>
+  <a href="https://github.com/nilsanz/HARIA">
+    <img src="./haria-logo.png" width="52" alt="HARIA" align="absmiddle">
+  </a>
+  <strong>HARIA</strong>
   &nbsp;—&nbsp;
   <strong><em>Healthcare referral workflow automation</em></strong>
 </p>
