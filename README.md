@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nilsanz/">
-    <img src="./linkedin.png" width="26" alt="LinkedIn" align="absmiddle">
-    <b>/nilsanz</b>
+    <img src="./linkedin.png" width="30" alt="LinkedIn" align="absmiddle">
+    <big><b>/nilsanz</b></big>
   </a>
 </p>
