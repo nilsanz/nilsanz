@@ -12,9 +12,8 @@
 </h3>
 
 <p align="center">
-  <img src="./haria-logo.png" width="42" alt="HARIA" align="absmiddle">
-  &nbsp;
-  <big><b>HARIA</b></big>
+  <img src="./haria-logo.png" width="52" alt="HARIA" align="absmiddle">
+  <big><strong><u>HARIA</u></strong></big>
   &nbsp;—&nbsp;
   <b>Healthcare referral workflow automation</b>
 </p>
