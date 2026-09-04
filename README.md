@@ -17,7 +17,7 @@
   </a>
   <strong>HARIA</strong>
   &nbsp;—&nbsp;
-  <strong><em>Healthcare referral workflow automation</em></strong>
+  <strong><em>Automated routing for healthcare referrals</em></strong>
 </p>
 
 <p align="center">
