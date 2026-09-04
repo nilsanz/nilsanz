@@ -13,9 +13,9 @@
 
 <p align="center">
   <img src="./haria-logo.png" width="52" alt="HARIA" align="absmiddle">
-  <big><strong><u>HARIA</u></strong></big>
+  <big><big><strong><u>HARIA</u></strong></big></big>
   &nbsp;—&nbsp;
-  <em>Healthcare referral workflow automation</em>
+  <strong><em>Healthcare referral workflow automation</em></strong>
 </p>
 
 <p align="center">
