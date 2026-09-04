@@ -1,14 +1,14 @@
-![Nil Sanz — Building Tech with Human Meaning](./banner.png)
+![Nil Sanz — Full-Stack Developer — Building Tech with Human Meaning](./banner.png)
 
-<h1 align="center">Full-Stack Developer · Barcelona</h1>
-
-<h1 align="center">Driven to build reliable, meaningful technology.</h1>
+<p align="center">
+  <em>Driven to build reliable, meaningful technology.</em>
+</p>
 
 ### Tech
 
 **Python · Django · PostgreSQL · HTML · CSS · JavaScript**
 
-### Currently building
+### Featured Project
 
 🏥 **[HARIA](https://github.com/nilsanz/HARIA)** — Healthcare referral workflow automation
 
