@@ -4,14 +4,20 @@
   <em>Driven to build reliable, meaningful technology.</em>
 </p>
 
-### Tech
+<h3 align="center">Tech</h3>
 
-**Python · Django · PostgreSQL · HTML · CSS · JavaScript**
+<p align="center">
+  <strong>Python · Django · PostgreSQL · HTML · CSS · JavaScript</strong>
+</p>
 
-### Featured Project
+<h3 align="center">Featured Project</h3>
 
-🏥 **[HARIA](https://github.com/nilsanz/HARIA)** — Healthcare referral workflow automation
+<p align="center">
+  🏥 <strong><a href="https://github.com/nilsanz/HARIA">HARIA</a></strong> — Healthcare referral workflow automation
+</p>
 
-### Connect
+<h3 align="center">Connect</h3>
 
-[LinkedIn](https://linkedin.com/in/nilsanz/)
+<p align="center">
+  <a href="https://linkedin.com/in/nilsanz/">LinkedIn</a>
+</p>
